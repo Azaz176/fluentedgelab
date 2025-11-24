@@ -12,8 +12,7 @@ export default function About() {
             <img
               src="/About/PritiGogoi.jpeg"
               alt="Priti Gogoi - Founder of FluentEdge"
-
-              className="w-full rounded-lg shadow-lg"
+              className="w-full h-[630px] object-cover object-top rounded-lg shadow-lg"
             />
           </div>
           <div>
@@ -57,8 +56,7 @@ export default function About() {
         <div className="mb-16">
           <h2 className="text-3xl font-bold text-blue-900 mb-6">Global Student Reach</h2>
           <p className="text-lg text-blue-900 mb-4">
-            I have successfully trained students from over 50 countries, helping them achieve their academic and professional goals.
-            Whether you're preparing for university admission, immigration, or career advancement, I'm here to guide you.
+            I have successfully trained students from over 50 countries, helping them achieve their academic and professional goals. Whether you're preparing for university admission, immigration, or career advancement, I'm here to guide you.
           </p>
         </div>
 

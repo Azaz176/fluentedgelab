@@ -1,0 +1,23 @@
+import Header from '@/react-app/components/Header';
+import Hero from '@/react-app/components/Hero';
+import WhyChoose from '@/react-app/components/WhyChoose';
+import CoursesSnapshot from '@/react-app/components/CoursesSnapshot';
+import TestimonialsPreview from '@/react-app/components/TestimonialsPreview';
+import GlobalPresence from '@/react-app/components/GlobalPresence';
+import Footer from '@/react-app/components/Footer';
+
+export default function Home() {
+  return (
+    <div className="min-h-screen bg-white">
+      <Header />
+      <main>
+        <Hero />
+        <WhyChoose />
+        <CoursesSnapshot />
+        <TestimonialsPreview />
+        <GlobalPresence />
+      </main>
+      <Footer />
+    </div>
+  );
+}

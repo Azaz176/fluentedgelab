@@ -12,14 +12,14 @@ export default function About() {
             <img
               src="/About/PritiGogoi.jpeg"
               alt="Priti Gogoi - Founder of FluentEdge"
-              className="w-full h-[630px] object-cover object-top rounded-lg shadow-lg"
+              className="w-full h-[492px] object-cover object-top rounded-lg shadow-lg"
             />
           </div>
           <div>
             <h1 className="text-4xl font-bold text-blue-900 mb-4">Your Expert Trainer</h1>
             <p className="text-xl text-blue-900 mb-6">IELTS/TOEFL/CELPIP/GRE/PTE Specialist</p>
             <p className="text-lg text-blue-900 mb-6">
-              An accomplished educator and language trainer with over a decade of teaching experience across India and the USA, specializing in English language acquisition, academic communication, and professional development. I hold a Masters, and an M.Phil. in Applied Linguistics from JNU, and a TESOL certification from New York. My career spans roles as a university lecturer, program coordinator, curriculum developer, and trainer for global exams such as IELTS, GRE, and TOEFL. I have successfully worked with diverse learners – students, professionals, and immigrant communities – helping them achieve fluency, confidence, and clarity in communication through tailored, research-driven, learner-centered training.
+              An accomplished educator and language trainer with over a decade's international experience in India and the USA, I specialise in English language acquisition, academic communication, and global exam preparation. I help learners achieve fluency, confidence, and clarity through research-driven, learner-focused training. My training approach combines evidence-based methodologies with real-world application to ensure measurable progress.
             </p>
             <div className="grid grid-cols-2 gap-6 mb-6">
               <div>

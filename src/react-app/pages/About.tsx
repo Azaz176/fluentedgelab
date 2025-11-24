@@ -10,8 +10,9 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 mb-16">
           <div>
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600"
-              alt="Professional Trainer"
+              src="/About/PritiGogoi.jpeg"
+              alt="Priti Gogoi - Founder of FluentEdge"
+
               className="w-full rounded-lg shadow-lg"
             />
           </div>
@@ -19,9 +20,7 @@ export default function About() {
             <h1 className="text-4xl font-bold text-blue-900 mb-4">Your Expert Trainer</h1>
             <p className="text-xl text-blue-900 mb-6">IELTS/TOEFL/CELPIP/GRE/PTE Specialist</p>
             <p className="text-lg text-blue-900 mb-6">
-              With years of experience in test preparation, I have helped thousands of students achieve their target scores. 
-              My personalized 1:1 coaching approach ensures that each student receives focused attention and customized strategies 
-              to maximize their potential.
+              An accomplished educator and language trainer with over a decade of teaching experience across India and the USA, specializing in English language acquisition, academic communication, and professional development. I hold a Masters, and an M.Phil. in Applied Linguistics from JNU, and a TESOL certification from New York. My career spans roles as a university lecturer, program coordinator, curriculum developer, and trainer for global exams such as IELTS, GRE, and TOEFL. I have successfully worked with diverse learners – students, professionals, and immigrant communities – helping them achieve fluency, confidence, and clarity in communication through tailored, research-driven, learner-centered training.
             </p>
             <div className="grid grid-cols-2 gap-6 mb-6">
               <div>
@@ -58,7 +57,7 @@ export default function About() {
         <div className="mb-16">
           <h2 className="text-3xl font-bold text-blue-900 mb-6">Global Student Reach</h2>
           <p className="text-lg text-blue-900 mb-4">
-            I have successfully trained students from over 50 countries, helping them achieve their academic and professional goals. 
+            I have successfully trained students from over 50 countries, helping them achieve their academic and professional goals.
             Whether you're preparing for university admission, immigration, or career advancement, I'm here to guide you.
           </p>
         </div>
